@@ -10,3 +10,5 @@ This repository contains:
 ## Files
 - `250428_Data_all.csv`: Cleaned dataset containing variables for the analysis.
 - `250428_running_multiple_linear_reg.R`: R script for running the multiple linear regression models.
+
+[![DOI](https://zenodo.org/badge/974502036.svg)](https://doi.org/10.5281/zenodo.15402711)
