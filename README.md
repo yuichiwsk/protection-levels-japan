@@ -1,7 +1,7 @@
 # Protection levels for aquatic Life in Japan
 ## Overview
-Data and R code used for Iwasaki et al. (in preparation).
-"What level of protection does the public prefer for aquatic life? A case study on management of chemical pollution in Japan"
+Data and R code used for Iwasaki et al. (2026).
+Yuichi Iwasaki, Yukie Shibata, and Masashi Soga (2026) How much protection is enough? Public preferences for aquatic life protection in water quality standards. Integrated Environmental Assessment and Management. https://doi.org/10.1093/inteam/vjag091
 
 This repository contains:
 - The dataset used for the study.
